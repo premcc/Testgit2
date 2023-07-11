@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class AS {
 public static void main(String[] args) {
-	System.out.println("ente a number to check it is prime number or not");
+	System.out.println("enter a number to check it is prime number or not");
 	
 	Scanner sc=new Scanner(System.in);
 	
